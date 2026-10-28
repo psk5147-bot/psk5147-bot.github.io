@@ -1,0 +1,13 @@
+# 화천이티씨
+> 화천기계 범용선반·범용밀링 A/S 부품 판매, 중고 공작기계 매입·판매, 공작기계 수리 (충남 아산). 문의 화천이티씨 041-552-5147 / 모바일 010-5424-6147
+
+- 사이트: https://psk5147-bot.github.io/hwacheon-parts/
+- 스마트스토어: https://smartstore.naver.com/hwacheonetc
+
+## 주요 페이지
+- [화천 범용선반 부품](https://psk5147-bot.github.io/hwacheon-parts/lathe-parts.html)
+- [화천 범용밀링 부품](https://psk5147-bot.github.io/hwacheon-parts/milling-parts.html)
+- [모델별 부품 HL380 HL460 HL580 HL720 HL950](https://psk5147-bot.github.io/hwacheon-parts/models.html)
+- [중고 공작기계 판매·매입](https://psk5147-bot.github.io/hwacheon-parts/used-machines.html)
+- [주변기기](https://psk5147-bot.github.io/hwacheon-parts/accessories.html)
+- [자주 묻는 질문](https://psk5147-bot.github.io/hwacheon-parts/faq.html)
